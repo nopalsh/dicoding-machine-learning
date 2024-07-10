@@ -85,5 +85,17 @@ Ini repositori berisi tugas proyek dari Dicoding Learning Path Machine Learning.
 5. Menyajikan algoritma content-based filtering.
 6. Menjelaskan metrik evaluasi yang digunakan untuk mengukur kinerja model, termasuk formula dan cara kerja metrik tersebut.
 
+## 👥 Pengembang Proyek
+
+- **Mochamad Naufal Shofy** - Pengembang Utama
+
+## 📬 Kontak
+
+Untuk informasi lebih lanjut, Anda dapat menghubungi saya melalui:
+- **✉️ Email**: naufalshofy38@gmail.com
+- **🔗 LinkedIn**: [Mochamad Naufal Shofy](https://www.linkedin.com/in/mochamad-naufal-shofy)
+
+Terima kasih telah mengunjungi repositori ini
 
 Copyright [2024] [Mochamad Naufal Shofy]
+
