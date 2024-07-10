@@ -4,7 +4,7 @@ Ini repositori berisi tugas proyek dari Dicoding Learning Path Machine Learning.
 
 ## Kelas Belajar Machine Learning untuk Pemula 📚
 ### Model Klasifikasi Gambar untuk Rock Paper Scissors ✋✊✌️
-- **Framework**: TensorFlow Keras
+- **Framework**: TensorFlow Keras  
 - **Link Proyek**: [Klasifikasi Gambar Rock Paper Scissors](https://github.com/nopalsh/dicoding-machine-learning/blob/main/Klasifikasi%20Gambar/Klasifikasi_Gambar_Dicoding_x_IDCAMP2023.ipynb)
 
 #### Ketentuan Minimum Penyelesaian Tugas:
@@ -59,7 +59,7 @@ Ini repositori berisi tugas proyek dari Dicoding Learning Path Machine Learning.
 6. MAE < 10% skala data.
 
 ## Kelas Machine Learning Terapan 🔍
-### Membuat Model Predictive Analytics dan Menulis Laporan Proyek 📈 untuk Klasifikasi Diabates
+### Membuat Model Predictive Analytics untuk Klasifikasi Diabates dan Menulis Laporan Proyek 📈
 - **Framework**: Scikit-Learn
 - **Model**: K-Nearest Neighbors (KNN)
 - **Link Proyek**: [Prediksi Diabetes](https://github.com/nopalsh/dicoding-machine-learning/blob/main/Proyek%20Machine%20Learning%20Terapan/Laporan%20Proyek%20Machine%20Learning%20-%20Prediksi%20Diabetes.md)
@@ -72,7 +72,7 @@ Ini repositori berisi tugas proyek dari Dicoding Learning Path Machine Learning.
 5. Menjelaskan proses data preparation yang dilakukan.
 6. Menjelaskan metrik evaluasi yang digunakan untuk mengukur kinerja model, termasuk formula dan cara kerja metrik tersebut.
 
-### Membuat Model Sistem Rekomendasi Content-based Filtering 📝 untuk Rekomendasi Film
+### Membuat Model Sistem Rekomendasi Content-based Filtering untuk Rekomendasi Film 📝
 - **Framework**: Scikit-Learn
 - **Model**: Content-based Filtering (CBF)
 - **Link Proyek**: [Sistem Rekomendasi Content-based Filtering](https://github.com/nopalsh/dicoding-machine-learning/blob/main/Sistem%20Rekomendasi%20CBF/Laporan%20Proyek%20Machine%20Learning%20-%20Sistem%20Rekomendasi%20CBF%20Anime.md)
