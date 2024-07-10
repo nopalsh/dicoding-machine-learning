@@ -18,7 +18,7 @@ Ini repositori berisi tugas proyek dari Dicoding Learning Path Machine Learning.
 8. Dapat memprediksi gambar yang diunggah ke Colab.
 
 ## Kelas Belajar Pengembangan Machine Learning 🧠
-### Image Classification Model Deployment 🖼️
+### Image Classification Model Deployment untuk Gambar Face Mask🖼️
 - **Framework**: TensorFlow Keras, Scikit-Learn
 - **Link Proyek**: [Image Classification Model Deployment](https://github.com/nopalsh/dicoding-machine-learning/blob/main/Klasifikasi%20Gambar/Image_Classification_Model_Deployment_IDCAMP_2023.ipynb)
 
