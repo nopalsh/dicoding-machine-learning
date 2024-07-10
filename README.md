@@ -18,7 +18,7 @@ Ini repositori berisi tugas proyek dari Dicoding Learning Path Machine Learning.
 8. Dapat memprediksi gambar yang diunggah ke Colab.
 
 ## Kelas Belajar Pengembangan Machine Learning 🧠
-### Image Classification Model Deployment untuk Gambar Face Mask🖼️
+### Image Classification Model Deployment untuk Gambar Face Mask 😷
 - **Framework**: TensorFlow Keras, Scikit-Learn
 - **Link Proyek**: [Image Classification Model Deployment](https://github.com/nopalsh/dicoding-machine-learning/blob/main/Klasifikasi%20Gambar/Image_Classification_Model_Deployment_IDCAMP_2023.ipynb)
 
@@ -33,7 +33,7 @@ Ini repositori berisi tugas proyek dari Dicoding Learning Path Machine Learning.
 8. Menulis kode untuk menyimpan model ke dalam format TF-Lite.
 9. Dataset tidak pernah digunakan pada submission kelas machine learning sebelumnya.
 
-### Membuat Model NLP dengan TensorFlow 🗣️
+### Membuat Model NLP dengan TensorFlow untuk Komentar Twitter 🗣️
 - **Framework**: TensorFlow Keras, Scikit-Learn
 - **Link Proyek**: [Membuat Model NLP dengan TensorFlow](https://github.com/nopalsh/dicoding-machine-learning/blob/main/NLP/Proyek_Pertama_Model_NLP_IDCAMP_2023.ipynb)
 
@@ -46,7 +46,7 @@ Ini repositori berisi tugas proyek dari Dicoding Learning Path Machine Learning.
 6. Menggunakan fungsi Tokenizer.
 7. Akurasi model minimal 75% pada train set dan validation set.
 
-### Membuat Model Machine Learning dengan Data Time Series ⏰
+### Membuat Model Machine Learning dengan Data Time Series untuk Prediksi Cuaca ☁️
 - **Framework**: TensorFlow Keras, Scikit-Learn
 - **Link Proyek**: [Membuat Model Machine Learning dengan Data Time Series](https://github.com/nopalsh/dicoding-machine-learning/blob/main/Time%20Series/Model_Time_Series_IDCAMP_2023.ipynb)
 
@@ -59,7 +59,7 @@ Ini repositori berisi tugas proyek dari Dicoding Learning Path Machine Learning.
 6. MAE < 10% skala data.
 
 ## Kelas Machine Learning Terapan 🔍
-### Membuat Model Predictive Analytics dan Menulis Laporan Proyek 📈
+### Membuat Model Predictive Analytics dan Menulis Laporan Proyek 📈 untuk Klasifikasi Diabates
 - **Framework**: Scikit-Learn
 - **Model**: K-Nearest Neighbors (KNN)
 - **Link Proyek**: [Prediksi Diabetes](https://github.com/nopalsh/dicoding-machine-learning/blob/main/Proyek%20Machine%20Learning%20Terapan/Laporan%20Proyek%20Machine%20Learning%20-%20Prediksi%20Diabetes.md)
@@ -72,7 +72,7 @@ Ini repositori berisi tugas proyek dari Dicoding Learning Path Machine Learning.
 5. Menjelaskan proses data preparation yang dilakukan.
 6. Menjelaskan metrik evaluasi yang digunakan untuk mengukur kinerja model, termasuk formula dan cara kerja metrik tersebut.
 
-### Membuat Model Sistem Rekomendasi Content-based Filtering 📝
+### Membuat Model Sistem Rekomendasi Content-based Filtering 📝 untuk Rekomendasi Film
 - **Framework**: Scikit-Learn
 - **Model**: Content-based Filtering (CBF)
 - **Link Proyek**: [Sistem Rekomendasi Content-based Filtering](https://github.com/nopalsh/dicoding-machine-learning/blob/main/Sistem%20Rekomendasi%20CBF/Laporan%20Proyek%20Machine%20Learning%20-%20Sistem%20Rekomendasi%20CBF%20Anime.md)
