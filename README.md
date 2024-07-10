@@ -84,3 +84,6 @@ Ini repositori berisi tugas proyek dari Dicoding Learning Path Machine Learning.
 4. Menjelaskan proses data preparation yang dilakukan dan alasannya.
 5. Menyajikan algoritma content-based filtering.
 6. Menjelaskan metrik evaluasi yang digunakan untuk mengukur kinerja model, termasuk formula dan cara kerja metrik tersebut.
+
+
+Copyright [2024] [Mochamad Naufal Shofy]
